@@ -1,0 +1,22 @@
+name: focus
+author: JannieT
+description: Scaffolding for a new stagex web project
+homepage: http://www.stagexl.org/
+
+environment:
+  sdk: ">=2.4.0 <3.0.0"
+
+dependencies:
+  stagexl: any
+  # stagexl_bitmapfont: any
+  # stagexl_dragonbones: any
+  # stagexl_flump: any
+  # stagexl_richtextfield: any
+  # stagexl_spine: any
+  # stagexl_gaf: any
+
+dev_dependencies:
+  pedantic: any
+  build_test: any
+  build_runner: any
+  build_web_compilers: any
